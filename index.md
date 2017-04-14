@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Tristan's Personal Website
 
 You can use the [editor on GitHub](https://github.com/Tristan47/Tristan47.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
